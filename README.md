@@ -1,6 +1,6 @@
 A simple C++ file encryption/decryption tool built to demonstrate and compare **parallel processing** techniques.
 
-## 🚀 Key Features
+## Key Features
 
 This project parallelizes a basic character-shifting cipher using two fundamental OS concurrency models:
 
